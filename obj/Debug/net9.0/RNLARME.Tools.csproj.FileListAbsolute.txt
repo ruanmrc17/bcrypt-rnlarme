@@ -1,0 +1,17 @@
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\bin\Debug\net9.0\RNLARME.Tools.exe
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\bin\Debug\net9.0\RNLARME.Tools.deps.json
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\bin\Debug\net9.0\RNLARME.Tools.runtimeconfig.json
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\bin\Debug\net9.0\RNLARME.Tools.dll
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\bin\Debug\net9.0\RNLARME.Tools.pdb
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME.Tools.csproj.AssemblyReference.cache
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME.Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME.Tools.AssemblyInfoInputs.cache
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME.Tools.AssemblyInfo.cs
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME.Tools.csproj.CoreCompileInputs.cache
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME..EBB56CA4.Up2Date
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME.Tools.dll
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\refint\RNLARME.Tools.dll
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME.Tools.pdb
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\RNLARME.Tools.genruntimeconfig.cache
+C:\Users\ruan.gomes\Downloads\C# USUARIO\RNLARME.Tools\obj\Debug\net9.0\ref\RNLARME.Tools.dll

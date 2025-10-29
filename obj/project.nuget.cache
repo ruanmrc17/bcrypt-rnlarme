@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1aocc7/x/Ro=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ruan.gomes\\Downloads\\C# USUARIO\\RNLARME.Tools\\RNLARME.Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ruan.gomes\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
